@@ -1,3 +1,4 @@
+<!=== Problem 1 ===!>
 // find very first repeated element in array
 // ['a', 'b', 'c', 'b', 'a', 'c'] => 'a'
 
